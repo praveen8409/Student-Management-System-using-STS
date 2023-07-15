@@ -1,0 +1,16 @@
+package com.sms.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+import com.sms.repository.StudentRepository;
+import com.sms.service.StudentService;
+
+@Controller
+public class StudentController {
+	
+	private Student
+	
+	
+}
